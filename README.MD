@@ -3,7 +3,7 @@
 Demander à l'utilisateur de saisir une phrase.
 
 Compter le nomre d'occurences par lettre dans la phrase
-(le nombre de fois que apla lettre apparait dans la phrase).
+(le nombre de fois que la lettre apparait dans la phrase).
 
 On ne prendra pas en compte les espaces ni les points dans la phrase.
 Attention , la casse est insensible.
